@@ -3,7 +3,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
 body {
@@ -19,7 +19,7 @@ body {
   background: #2a2a2a;
   padding: 2rem;
   border-radius: 10px;
-  box-shadow: 0 0 20px rgba(0,0,0,0.3);
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
 }
 
 .header {
@@ -47,6 +47,7 @@ TODO: refactor the folder-btn class name
   border-radius: 5px;
   padding: 1rem;
   margin-bottom: 2rem;
+  min-height: 200px;
   max-height: 300px;
   overflow-y: auto;
 }
@@ -54,10 +55,12 @@ TODO: refactor the folder-btn class name
 .playlist-item {
   padding: 0.5rem;
   cursor: pointer;
-  transition: background 0.3s;
+  transition: background 1s;
   border-radius: 3px;
   display: flex;
+  flex-direction: row;
   align-items: center;
+  justify-items: flex-start;
   gap: 0.5rem;
 }
 
@@ -66,7 +69,7 @@ TODO: refactor the folder-btn class name
 }
 
 .playlist-item.active {
-  background: #4CAF50;
+  background: #4caf50;
 }
 
 .controls {
@@ -83,8 +86,8 @@ TODO: refactor the folder-btn class name
 
 .control-btn {
   background: none;
-  border: 2px solid #4CAF50;
-  color: #4CAF50;
+  border: 2px solid #4caf50;
+  color: #4caf50;
   width: 50px;
   height: 50px;
   border-radius: 50%;
@@ -94,7 +97,7 @@ TODO: refactor the folder-btn class name
 }
 
 .control-btn:hover {
-  background: #4CAF50;
+  background: #4caf50;
   color: white;
 }
 
@@ -110,7 +113,7 @@ TODO: refactor the folder-btn class name
 .progress-bar {
   width: 0%;
   height: 100%;
-  background: #4CAF50;
+  background: #4caf50;
   border-radius: 5px;
   transition: width 0.1s linear;
 }
@@ -124,7 +127,7 @@ TODO: refactor the folder-btn class name
   text-align: center;
   margin-top: 1rem;
   font-size: 1.2rem;
-  color: #4CAF50;
+  color: #4caf50;
   word-break: break-all;
 }
 

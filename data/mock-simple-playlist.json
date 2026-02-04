@@ -1,0 +1,2934 @@
+{
+  "status": {
+    "description": "OK",
+    "value": 200
+  },
+  "ipAddress": "192.168.1.9",
+  "data": [
+    {
+      "album": "Music",
+      "artist": "\u003cunknown\u003e",
+      "duration": 211317,
+      "id": 1000000444,
+      "thumbnail": {
+        "mHeight": 330,
+        "mNativePtr": -5476376656296128064,
+        "mWidth": 330
+      },
+      "title": "10. Slipknot - Spiders",
+      "uri": "content://media/external/audio/media/1000000444"
+    },
+    {
+      "album": "amo",
+      "artist": "Bring Me the Horizon",
+      "duration": 109064,
+      "id": 1000000445,
+      "thumbnail": {
+        "mHeight": 400,
+        "mNativePtr": -5476376656296127872,
+        "mWidth": 400
+      },
+      "title": "ouch",
+      "uri": "content://media/external/audio/media/1000000445"
+    },
+    {
+      "album": "Unreleased",
+      "artist": "Kodak Black",
+      "duration": 158808,
+      "id": 1000000446,
+      "thumbnail": {
+        "mHeight": 500,
+        "mNativePtr": -5476376656294547392,
+        "mWidth": 500
+      },
+      "title": "24 - Kodak Black - Killing It (Freshout)",
+      "uri": "content://media/external/audio/media/1000000446"
+    },
+    {
+      "album": "Steal This Album!",
+      "artist": "System Of A Down",
+      "duration": 153809,
+      "id": 1000010495,
+      "thumbnail": {
+        "mHeight": 330,
+        "mNativePtr": -5476376656296128064,
+        "mWidth": 330
+      },
+      "title": "Innervision",
+      "uri": "content://media/external/audio/media/1000010495"
+    },
+    {
+      "album": "Steal This Album!",
+      "artist": "System Of A Down",
+      "duration": 201953,
+      "id": 1000010496,
+      "thumbnail": {
+        "mHeight": 330,
+        "mNativePtr": -5476376656296128064,
+        "mWidth": 330
+      },
+      "title": "Ego Brain",
+      "uri": "content://media/external/audio/media/1000010496"
+    },
+    {
+      "album": "Steal This Album!",
+      "artist": "System Of A Down",
+      "duration": 193672,
+      "id": 1000010497,
+      "thumbnail": {
+        "mHeight": 330,
+        "mNativePtr": -5476376656296128064,
+        "mWidth": 330
+      },
+      "title": "Highway Song",
+      "uri": "content://media/external/audio/media/1000010497"
+    },
+    {
+      "album": "Steal This Album!",
+      "artist": "System Of A Down",
+      "duration": 126354,
+      "id": 1000010498,
+      "thumbnail": {
+        "mHeight": 330,
+        "mNativePtr": -5476376656296128064,
+        "mWidth": 330
+      },
+      "title": "Pictures",
+      "uri": "content://media/external/audio/media/1000010498"
+    },
+    {
+      "album": "Steal This Album!",
+      "artist": "System Of A Down",
+      "duration": 201247,
+      "id": 1000010499,
+      "thumbnail": {
+        "mHeight": 330,
+        "mNativePtr": -5476376656296128064,
+        "mWidth": 330
+      },
+      "title": "Roulette",
+      "uri": "content://media/external/audio/media/1000010499"
+    },
+    {
+      "album": "Steal This Album!",
+      "artist": "System Of A Down",
+      "duration": 150387,
+      "id": 1000010500,
+      "thumbnail": {
+        "mHeight": 330,
+        "mNativePtr": -5476376656296128064,
+        "mWidth": 330
+      },
+      "title": "Nüguns",
+      "uri": "content://media/external/audio/media/1000010500"
+    },
+    {
+      "album": "Steal This Album!",
+      "artist": "System Of A Down",
+      "duration": 188630,
+      "id": 1000010501,
+      "thumbnail": {
+        "mHeight": 330,
+        "mNativePtr": -5476376656296128064,
+        "mWidth": 330
+      },
+      "title": "I-E-A-I-A-I-O",
+      "uri": "content://media/external/audio/media/1000010501"
+    },
+    {
+      "album": "Steal This Album!",
+      "artist": "System Of A Down",
+      "duration": 116924,
+      "id": 1000010502,
+      "thumbnail": {
+        "mHeight": 330,
+        "mNativePtr": -5476376656296128064,
+        "mWidth": 330
+      },
+      "title": "Bubbles",
+      "uri": "content://media/external/audio/media/1000010502"
+    },
+    {
+      "album": "Steal This Album!",
+      "artist": "System Of A Down",
+      "duration": 134949,
+      "id": 1000010503,
+      "thumbnail": {
+        "mHeight": 330,
+        "mNativePtr": -5476376656296128064,
+        "mWidth": 330
+      },
+      "title": "Boom!",
+      "uri": "content://media/external/audio/media/1000010503"
+    },
+    {
+      "album": "Steal This Album!",
+      "artist": "System Of A Down",
+      "duration": 143673,
+      "id": 1000010504,
+      "thumbnail": {
+        "mHeight": 330,
+        "mNativePtr": -5476376656296128064,
+        "mWidth": 330
+      },
+      "title": "Chic ’N’ Stu",
+      "uri": "content://media/external/audio/media/1000010504"
+    },
+    {
+      "album": "Steal This Album!",
+      "artist": "System Of A Down",
+      "duration": 132780,
+      "id": 1000010505,
+      "thumbnail": {
+        "mHeight": 330,
+        "mNativePtr": -5476376656296128064,
+        "mWidth": 330
+      },
+      "title": "Fuck The System",
+      "uri": "content://media/external/audio/media/1000010505"
+    },
+    {
+      "album": "Steal This Album!",
+      "artist": "System Of A Down",
+      "duration": 217626,
+      "id": 1000010506,
+      "thumbnail": {
+        "mHeight": 330,
+        "mNativePtr": -5476376656296128064,
+        "mWidth": 330
+      },
+      "title": "Streamline",
+      "uri": "content://media/external/audio/media/1000010506"
+    },
+    {
+      "album": "Steal This Album!",
+      "artist": "System Of A Down",
+      "duration": 197355,
+      "id": 1000010507,
+      "thumbnail": {
+        "mHeight": 330,
+        "mNativePtr": -5476376656296128064,
+        "mWidth": 330
+      },
+      "title": "A.D.D. (American Dream Denial)",
+      "uri": "content://media/external/audio/media/1000010507"
+    },
+    {
+      "album": "Steal This Album!",
+      "artist": "System Of A Down",
+      "duration": 156630,
+      "id": 1000010508,
+      "thumbnail": {
+        "mHeight": 330,
+        "mNativePtr": -5476376656296128064,
+        "mWidth": 330
+      },
+      "title": "Thetawaves",
+      "uri": "content://media/external/audio/media/1000010508"
+    },
+    {
+      "album": "Steal This Album!",
+      "artist": "System Of A Down",
+      "duration": 249678,
+      "id": 1000010509,
+      "thumbnail": {
+        "mHeight": 330,
+        "mNativePtr": -5476376656296128064,
+        "mWidth": 330
+      },
+      "title": "Mr. Jack",
+      "uri": "content://media/external/audio/media/1000010509"
+    },
+    {
+      "album": "Steal This Album!",
+      "artist": "System Of A Down",
+      "duration": 46367,
+      "id": 1000010510,
+      "thumbnail": {
+        "mHeight": 330,
+        "mNativePtr": -5476376656296128064,
+        "mWidth": 330
+      },
+      "title": "36",
+      "uri": "content://media/external/audio/media/1000010510"
+    },
+    {
+      "album": "MTV Unplugged In NY",
+      "artist": "Nirvana",
+      "duration": 291384,
+      "id": 1000010525,
+      "thumbnail": {
+        "mHeight": 586,
+        "mNativePtr": -5476376656294547136,
+        "mWidth": 586
+      },
+      "title": "Where Did You Sleep Last Night ?",
+      "uri": "content://media/external/audio/media/1000010525"
+    },
+    {
+      "album": "MTV Unplugged In NY",
+      "artist": "Nirvana",
+      "duration": 163920,
+      "id": 1000010526,
+      "thumbnail": {
+        "mHeight": 586,
+        "mNativePtr": -5476376656294547072,
+        "mWidth": 586
+      },
+      "title": "Dumb",
+      "uri": "content://media/external/audio/media/1000010526"
+    },
+    {
+      "album": "MTV Unplugged In NY",
+      "artist": "Nirvana",
+      "duration": 239160,
+      "id": 1000010527,
+      "thumbnail": {
+        "mHeight": 586,
+        "mNativePtr": -5476376656296127808,
+        "mWidth": 586
+      },
+      "title": "On A Plain",
+      "uri": "content://media/external/audio/media/1000010527"
+    },
+    {
+      "album": "MTV Unplugged In NY",
+      "artist": "Nirvana",
+      "duration": 187032,
+      "id": 1000010528,
+      "thumbnail": {
+        "mHeight": 586,
+        "mNativePtr": -5476376656294547008,
+        "mWidth": 586
+      },
+      "title": "Lake of fire",
+      "uri": "content://media/external/audio/media/1000010528"
+    },
+    {
+      "album": "MTV Unplugged In NY",
+      "artist": "Nirvana",
+      "duration": 219024,
+      "id": 1000010529,
+      "thumbnail": {
+        "mHeight": 589,
+        "mNativePtr": -5476376656294546880,
+        "mWidth": 590
+      },
+      "title": "All Apologies",
+      "uri": "content://media/external/audio/media/1000010529"
+    },
+    {
+      "album": "MTV Unplugged In NY",
+      "artist": "Nirvana",
+      "duration": 215376,
+      "id": 1000010530,
+      "thumbnail": {
+        "mHeight": 586,
+        "mNativePtr": -5476376656294546944,
+        "mWidth": 586
+      },
+      "title": "Pennyroyal Tea",
+      "uri": "content://media/external/audio/media/1000010530"
+    },
+    {
+      "album": "MTV Unplugged In NY",
+      "artist": "Nirvana",
+      "duration": 191640,
+      "id": 1000010531,
+      "thumbnail": {
+        "mHeight": 586,
+        "mNativePtr": -5476376656294546816,
+        "mWidth": 586
+      },
+      "title": "Oh, Me",
+      "uri": "content://media/external/audio/media/1000010531"
+    },
+    {
+      "album": "MTV Unplugged In NY",
+      "artist": "Nirvana",
+      "duration": 202968,
+      "id": 1000010532,
+      "thumbnail": {
+        "mHeight": 586,
+        "mNativePtr": -5476376656294546688,
+        "mWidth": 586
+      },
+      "title": "Polly",
+      "uri": "content://media/external/audio/media/1000010532"
+    },
+    {
+      "album": "MTV Unplugged In NY",
+      "artist": "Nirvana",
+      "duration": 212064,
+      "id": 1000010533,
+      "thumbnail": {
+        "mHeight": 586,
+        "mNativePtr": -5476376656294546752,
+        "mWidth": 586
+      },
+      "title": "Plateau",
+      "uri": "content://media/external/audio/media/1000010533"
+    },
+    {
+      "album": "MTV Unplugged In NY",
+      "artist": "Nirvana",
+      "duration": 274824,
+      "id": 1000010534,
+      "thumbnail": {
+        "mHeight": 586,
+        "mNativePtr": -5476376656294546560,
+        "mWidth": 586
+      },
+      "title": "Come As You Are",
+      "uri": "content://media/external/audio/media/1000010534"
+    },
+    {
+      "album": "MTV Unplugged In NY",
+      "artist": "Nirvana",
+      "duration": 217728,
+      "id": 1000010535,
+      "thumbnail": {
+        "mHeight": 586,
+        "mNativePtr": -5476376656294546624,
+        "mWidth": 586
+      },
+      "title": "The Man Who Sold The World",
+      "uri": "content://media/external/audio/media/1000010535"
+    },
+    {
+      "album": "MTV Unplugged In NY",
+      "artist": "Nirvana",
+      "duration": 184632,
+      "id": 1000010536,
+      "thumbnail": {
+        "mHeight": 586,
+        "mNativePtr": -5476376656294546432,
+        "mWidth": 586
+      },
+      "title": "About A Girl",
+      "uri": "content://media/external/audio/media/1000010536"
+    },
+    {
+      "album": "MTV Unplugged In NY",
+      "artist": "Nirvana",
+      "duration": 207456,
+      "id": 1000010537,
+      "thumbnail": {
+        "mHeight": 586,
+        "mNativePtr": -5476376656294546368,
+        "mWidth": 586
+      },
+      "title": "Something in the Way",
+      "uri": "content://media/external/audio/media/1000010537"
+    },
+    {
+      "album": "MTV Unplugged In NY",
+      "artist": "Nirvana",
+      "duration": 242496,
+      "id": 1000010538,
+      "thumbnail": {
+        "mHeight": 586,
+        "mNativePtr": -5476376656294546304,
+        "mWidth": 586
+      },
+      "title": "Jesus Doesn\u0027t Want Me For A Sunbeam",
+      "uri": "content://media/external/audio/media/1000010538"
+    },
+    {
+      "album": "Unknown Death 2002",
+      "artist": "Yung Lean",
+      "duration": 112431,
+      "id": 1000011420,
+      "thumbnail": {
+        "mHeight": 350,
+        "mNativePtr": -5476376656294546240,
+        "mWidth": 350
+      },
+      "title": "Welcome 2 Unknown Death [Prod. Yung Sherman]",
+      "uri": "content://media/external/audio/media/1000011420"
+    },
+    {
+      "album": "Unknown Death 2002",
+      "artist": "Yung Lean",
+      "duration": 224313,
+      "id": 1000011421,
+      "thumbnail": {
+        "mHeight": 350,
+        "mNativePtr": -5476376656294546176,
+        "mWidth": 350
+      },
+      "title": "Nitevision (feat. Bladee) [Prod. Yung Gud]",
+      "uri": "content://media/external/audio/media/1000011421"
+    },
+    {
+      "album": "Unknown Death 2002",
+      "artist": "Yung Lean",
+      "duration": 206289,
+      "id": 1000011422,
+      "thumbnail": {
+        "mHeight": 350,
+        "mNativePtr": -5476376656294546112,
+        "mWidth": 350
+      },
+      "title": "Oceans 2001 [Prod. Gregar]",
+      "uri": "content://media/external/audio/media/1000011422"
+    },
+    {
+      "album": "Unknown Death 2002",
+      "artist": "Yung Lean",
+      "duration": 199027,
+      "id": 1000011423,
+      "thumbnail": {
+        "mHeight": 350,
+        "mNativePtr": -5476376656294546496,
+        "mWidth": 350
+      },
+      "title": "Gatorade [Prod. Yung Gud]",
+      "uri": "content://media/external/audio/media/1000011423"
+    },
+    {
+      "album": "Unknown Death 2002",
+      "artist": "Yung Lean",
+      "duration": 247040,
+      "id": 1000011424,
+      "thumbnail": {
+        "mHeight": 350,
+        "mNativePtr": -5476376656294545984,
+        "mWidth": 350
+      },
+      "title": "Hurt [Prod. Suicideyear]",
+      "uri": "content://media/external/audio/media/1000011424"
+    },
+    {
+      "album": "Unknown Death 2002",
+      "artist": "Yung Lean",
+      "duration": 274051,
+      "id": 1000011425,
+      "thumbnail": {
+        "mHeight": 350,
+        "mNativePtr": -5476376656294545920,
+        "mWidth": 350
+      },
+      "title": "Lightsaber // Saviour [Prod. Yung Sherman]",
+      "uri": "content://media/external/audio/media/1000011425"
+    },
+    {
+      "album": "Unknown Death 2002",
+      "artist": "Yung Lean",
+      "duration": 215536,
+      "id": 1000011426,
+      "thumbnail": {
+        "mHeight": 350,
+        "mNativePtr": -5476376656294545856,
+        "mWidth": 350
+      },
+      "title": "Princess Daisy [Prod. Yung Gud]",
+      "uri": "content://media/external/audio/media/1000011426"
+    },
+    {
+      "album": "Unknown Death 2002",
+      "artist": "Yung Lean",
+      "duration": 196415,
+      "id": 1000011427,
+      "thumbnail": {
+        "mHeight": 350,
+        "mNativePtr": -5476376656294545792,
+        "mWidth": 350
+      },
+      "title": "Lemonade (feat. Baba Stiltz) [Prod. Yung Sherman]",
+      "uri": "content://media/external/audio/media/1000011427"
+    },
+    {
+      "album": "Unknown Death 2002",
+      "artist": "Yung Lean",
+      "duration": 180532,
+      "id": 1000011428,
+      "thumbnail": {
+        "mHeight": 350,
+        "mNativePtr": -5476376656294545728,
+        "mWidth": 350
+      },
+      "title": "Emails [Prod. White Armor]",
+      "uri": "content://media/external/audio/media/1000011428"
+    },
+    {
+      "album": "Unknown Death 2002",
+      "artist": "Yung Lean",
+      "duration": 168829,
+      "id": 1000011429,
+      "thumbnail": {
+        "mHeight": 350,
+        "mNativePtr": -5476376656294545664,
+        "mWidth": 350
+      },
+      "title": "Deathstar // Getting Benjamins [Prod. White Armor]",
+      "uri": "content://media/external/audio/media/1000011429"
+    },
+    {
+      "album": "Unknown Death 2002",
+      "artist": "Yung Lean",
+      "duration": 184033,
+      "id": 1000011430,
+      "thumbnail": {
+        "mHeight": 350,
+        "mNativePtr": -5476376656294545600,
+        "mWidth": 350
+      },
+      "title": "Heal You // Bladerunner (feat. Bladee) [Prod. White Armor]",
+      "uri": "content://media/external/audio/media/1000011430"
+    },
+    {
+      "album": "Unknown Death 2002",
+      "artist": "Yung Lean",
+      "duration": 200255,
+      "id": 1000011431,
+      "thumbnail": {
+        "mHeight": 350,
+        "mNativePtr": -5476376656294546048,
+        "mWidth": 350
+      },
+      "title": "Solarflare [Prod. Friendzone]",
+      "uri": "content://media/external/audio/media/1000011431"
+    },
+    {
+      "album": "WhatsApp Audio",
+      "artist": "\u003cunknown\u003e",
+      "duration": 16560,
+      "id": 1000011526,
+      "thumbnail": {
+        "mHeight": 330,
+        "mNativePtr": -5476376656294545472,
+        "mWidth": 330
+      },
+      "title": "AUD-20250917-WA0019",
+      "uri": "content://media/external/audio/media/1000011526"
+    },
+    {
+      "album": "Future \u0026 Juice WRLD Present... WRLD ON DRUGS",
+      "artist": "Future \u0026 Juice WRLD",
+      "duration": 121055,
+      "id": 1000011717,
+      "thumbnail": {
+        "mHeight": 300,
+        "mNativePtr": -5476376656294545408,
+        "mWidth": 300
+      },
+      "title": "Shorty",
+      "uri": "content://media/external/audio/media/1000011717"
+    },
+    {
+      "album": "Future \u0026 Juice WRLD Present... WRLD ON DRUGS",
+      "artist": "Future \u0026 Juice WRLD",
+      "duration": 185002,
+      "id": 1000011718,
+      "thumbnail": {
+        "mHeight": 300,
+        "mNativePtr": -5476376656294545344,
+        "mWidth": 300
+      },
+      "title": "No Issue",
+      "uri": "content://media/external/audio/media/1000011718"
+    },
+    {
+      "album": "Future \u0026 Juice WRLD Present... WRLD ON DRUGS",
+      "artist": "Future",
+      "duration": 214286,
+      "id": 1000011719,
+      "thumbnail": {
+        "mHeight": 300,
+        "mNativePtr": -5476376656294544960,
+        "mWidth": 300
+      },
+      "title": "Afterlife",
+      "uri": "content://media/external/audio/media/1000011719"
+    },
+    {
+      "album": "Future \u0026 Juice WRLD Present... WRLD ON DRUGS",
+      "artist": "Future \u0026 Juice WRLD",
+      "duration": 169956,
+      "id": 1000011720,
+      "thumbnail": {
+        "mHeight": 300,
+        "mNativePtr": -5476376656294544896,
+        "mWidth": 300
+      },
+      "title": "Astronauts",
+      "uri": "content://media/external/audio/media/1000011720"
+    },
+    {
+      "album": "Future \u0026 Juice WRLD Present... WRLD ON DRUGS",
+      "artist": "Future \u0026 Juice WRLD",
+      "duration": 141639,
+      "id": 1000011721,
+      "thumbnail": {
+        "mHeight": 300,
+        "mNativePtr": -5476376656294544832,
+        "mWidth": 300
+      },
+      "title": "Fine China",
+      "uri": "content://media/external/audio/media/1000011721"
+    },
+    {
+      "album": "Future \u0026 Juice WRLD Present... WRLD ON DRUGS",
+      "artist": "Juice WRLD",
+      "duration": 102612,
+      "id": 1000011722,
+      "thumbnail": {
+        "mHeight": 300,
+        "mNativePtr": -5476376656294544256,
+        "mWidth": 300
+      },
+      "title": "Make It Back",
+      "uri": "content://media/external/audio/media/1000011722"
+    },
+    {
+      "album": "Future \u0026 Juice WRLD Present... WRLD ON DRUGS",
+      "artist": "Future \u0026 Juice WRLD",
+      "duration": 217055,
+      "id": 1000011723,
+      "thumbnail": {
+        "mHeight": 300,
+        "mNativePtr": -5476376656294543872,
+        "mWidth": 300
+      },
+      "title": "WRLD On Drugs",
+      "uri": "content://media/external/audio/media/1000011723"
+    },
+    {
+      "album": "Future \u0026 Juice WRLD Present... WRLD ON DRUGS",
+      "artist": "Future \u0026 Juice WRLD",
+      "duration": 192944,
+      "id": 1000011724,
+      "thumbnail": {
+        "mHeight": 300,
+        "mNativePtr": -5476376656294545280,
+        "mWidth": 300
+      },
+      "title": "7 AM Freestyle",
+      "uri": "content://media/external/audio/media/1000011724"
+    },
+    {
+      "album": "Future \u0026 Juice WRLD Present... WRLD ON DRUGS",
+      "artist": "Future \u0026 Juice WRLD",
+      "duration": 170975,
+      "id": 1000011725,
+      "thumbnail": {
+        "mHeight": 300,
+        "mNativePtr": -5476376656294543616,
+        "mWidth": 300
+      },
+      "title": "Realer N Realer",
+      "uri": "content://media/external/audio/media/1000011725"
+    },
+    {
+      "album": "Future \u0026 Juice WRLD Present... WRLD ON DRUGS",
+      "artist": "Future \u0026 Juice WRLD",
+      "duration": 224552,
+      "id": 1000011726,
+      "thumbnail": {
+        "mHeight": 300,
+        "mNativePtr": -5476376656294498176,
+        "mWidth": 300
+      },
+      "title": "Hard Work Pays Off",
+      "uri": "content://media/external/audio/media/1000011726"
+    },
+    {
+      "album": "Future \u0026 Juice WRLD Present... WRLD ON DRUGS",
+      "artist": "Future",
+      "duration": 180117,
+      "id": 1000011727,
+      "thumbnail": {
+        "mHeight": 300,
+        "mNativePtr": -5476376656294516480,
+        "mWidth": 300
+      },
+      "title": "Oxy (feat. Lil Wayne)",
+      "uri": "content://media/external/audio/media/1000011727"
+    },
+    {
+      "album": "Future \u0026 Juice WRLD Present... WRLD ON DRUGS",
+      "artist": "Future \u0026 Juice WRLD",
+      "duration": 151043,
+      "id": 1000011728,
+      "thumbnail": {
+        "mHeight": 300,
+        "mNativePtr": -5476376657780887552,
+        "mWidth": 300
+      },
+      "title": "Different (feat. Yung Bans)",
+      "uri": "content://media/external/audio/media/1000011728"
+    },
+    {
+      "album": "Future \u0026 Juice WRLD Present... WRLD ON DRUGS",
+      "artist": "Future \u0026 Juice WRLD",
+      "duration": 271102,
+      "id": 1000011729,
+      "thumbnail": {
+        "mHeight": 300,
+        "mNativePtr": -5476376657780887296,
+        "mWidth": 300
+      },
+      "title": "Jet Lag (feat. Young Scooter)",
+      "uri": "content://media/external/audio/media/1000011729"
+    },
+    {
+      "album": "Future \u0026 Juice WRLD Present... WRLD ON DRUGS",
+      "artist": "Future \u0026 Juice WRLD",
+      "duration": 207912,
+      "id": 1000011730,
+      "thumbnail": {
+        "mHeight": 300,
+        "mNativePtr": -5476376657780887232,
+        "mWidth": 300
+      },
+      "title": "Red Bentley (feat. Young Thug)",
+      "uri": "content://media/external/audio/media/1000011730"
+    },
+    {
+      "album": "Future \u0026 Juice WRLD Present... WRLD ON DRUGS",
+      "artist": "Future \u0026 Juice WRLD",
+      "duration": 230586,
+      "id": 1000011731,
+      "thumbnail": {
+        "mHeight": 300,
+        "mNativePtr": -5476376657780887168,
+        "mWidth": 300
+      },
+      "title": "Ain\u0027t Livin Right (feat. Gunna)",
+      "uri": "content://media/external/audio/media/1000011731"
+    },
+    {
+      "album": "Future \u0026 Juice WRLD Present... WRLD ON DRUGS",
+      "artist": "Future",
+      "duration": 196366,
+      "id": 1000011732,
+      "thumbnail": {
+        "mHeight": 300,
+        "mNativePtr": -5476376657780887488,
+        "mWidth": 300
+      },
+      "title": "Transformer (feat. Nicki Minaj)",
+      "uri": "content://media/external/audio/media/1000011732"
+    },
+    {
+      "album": "Kids See Ghosts",
+      "artist": "Kid Cudi \u0026 Kanye West",
+      "duration": 323513,
+      "id": 1000011736,
+      "thumbnail": {
+        "mHeight": 300,
+        "mNativePtr": -5476376657780887040,
+        "mWidth": 300
+      },
+      "title": "Reborn",
+      "uri": "content://media/external/audio/media/1000011736"
+    },
+    {
+      "album": "Kids See Ghosts",
+      "artist": "Kid Cudi \u0026 Kanye West",
+      "duration": 142614,
+      "id": 1000011737,
+      "thumbnail": {
+        "mHeight": 300,
+        "mNativePtr": -5476376657780886976,
+        "mWidth": 300
+      },
+      "title": "Cudi Montage",
+      "uri": "content://media/external/audio/media/1000011737"
+    },
+    {
+      "album": "Kids See Ghosts",
+      "artist": "Kid Cudi \u0026 Kanye West",
+      "duration": 153393,
+      "id": 1000011738,
+      "thumbnail": {
+        "mHeight": 300,
+        "mNativePtr": -5476376657780886912,
+        "mWidth": 300
+      },
+      "title": "4th Dimension",
+      "uri": "content://media/external/audio/media/1000011738"
+    },
+    {
+      "album": "Kids See Ghosts",
+      "artist": "Kid Cudi \u0026 Kanye West",
+      "duration": 194396,
+      "id": 1000011739,
+      "thumbnail": {
+        "mHeight": 300,
+        "mNativePtr": -5476376657780887104,
+        "mWidth": 300
+      },
+      "title": "Devil\u0027s Watchin",
+      "uri": "content://media/external/audio/media/1000011739"
+    },
+    {
+      "album": "Kids See Ghosts",
+      "artist": "Kid Cudi \u0026 Kanye West",
+      "duration": 205097,
+      "id": 1000011740,
+      "thumbnail": {
+        "mHeight": 300,
+        "mNativePtr": -5476376657780886848,
+        "mWidth": 300
+      },
+      "title": "Extasy (feat. Ty Dolla $ign)",
+      "uri": "content://media/external/audio/media/1000011740"
+    },
+    {
+      "album": "Kids See Ghosts",
+      "artist": "Kid Cudi \u0026 Kanye West",
+      "duration": 164120,
+      "id": 1000011741,
+      "thumbnail": {
+        "mHeight": 300,
+        "mNativePtr": -5476376657780886720,
+        "mWidth": 300
+      },
+      "title": "Feel The Love (feat. Pusha T)",
+      "uri": "content://media/external/audio/media/1000011741"
+    },
+    {
+      "album": "Kids See Ghosts",
+      "artist": "Kid Cudi \u0026 Kanye West",
+      "duration": 244534,
+      "id": 1000011742,
+      "thumbnail": {
+        "mHeight": 300,
+        "mNativePtr": -5476376657780886784,
+        "mWidth": 300
+      },
+      "title": "Kids See Ghost (feat. Mos Def)",
+      "uri": "content://media/external/audio/media/1000011742"
+    },
+    {
+      "album": "Rolling Papers 2",
+      "artist": "Wiz Khalifa",
+      "duration": 207285,
+      "id": 1000011746,
+      "thumbnail": {
+        "mHeight": 333,
+        "mNativePtr": -5476376657780886656,
+        "mWidth": 333
+      },
+      "title": "King",
+      "uri": "content://media/external/audio/media/1000011746"
+    },
+    {
+      "album": "Rolling Papers 2",
+      "artist": "Wiz Khalifa",
+      "duration": 282805,
+      "id": 1000011747,
+      "thumbnail": {
+        "mHeight": 333,
+        "mNativePtr": -5476376657780886592,
+        "mWidth": 333
+      },
+      "title": "B Ok",
+      "uri": "content://media/external/audio/media/1000011747"
+    },
+    {
+      "album": "Rolling Papers 2",
+      "artist": "Wiz Khalifa",
+      "duration": 212013,
+      "id": 1000011748,
+      "thumbnail": {
+        "mHeight": 333,
+        "mNativePtr": -5476376657780886464,
+        "mWidth": 333
+      },
+      "title": "Ocean",
+      "uri": "content://media/external/audio/media/1000011748"
+    },
+    {
+      "album": "Rolling Papers 2",
+      "artist": "Wiz Khalifa",
+      "duration": 226302,
+      "id": 1000011749,
+      "thumbnail": {
+        "mHeight": 333,
+        "mNativePtr": -5476376657780886528,
+        "mWidth": 333
+      },
+      "title": "Hot Now",
+      "uri": "content://media/external/audio/media/1000011749"
+    },
+    {
+      "album": "Rolling Papers 2",
+      "artist": "Wiz Khalifa",
+      "duration": 128604,
+      "id": 1000011750,
+      "thumbnail": {
+        "mHeight": 333,
+        "mNativePtr": -5476376657780886336,
+        "mWidth": 333
+      },
+      "title": "Goin Hard",
+      "uri": "content://media/external/audio/media/1000011750"
+    },
+    {
+      "album": "Rolling Papers 2",
+      "artist": "Wiz Khalifa",
+      "duration": 153995,
+      "id": 1000011751,
+      "thumbnail": {
+        "mHeight": 333,
+        "mNativePtr": -5476376657780886400,
+        "mWidth": 333
+      },
+      "title": "Holyfield",
+      "uri": "content://media/external/audio/media/1000011751"
+    },
+    {
+      "album": "Rolling Papers 2",
+      "artist": "Wiz Khalifa",
+      "duration": 152584,
+      "id": 1000011752,
+      "thumbnail": {
+        "mHeight": 333,
+        "mNativePtr": -5476376657780886272,
+        "mWidth": 333
+      },
+      "title": "It\u0027s on You",
+      "uri": "content://media/external/audio/media/1000011752"
+    },
+    {
+      "album": "Rolling Papers 2",
+      "artist": "Wiz Khalifa",
+      "duration": 166560,
+      "id": 1000011753,
+      "thumbnail": {
+        "mHeight": 333,
+        "mNativePtr": -5476376657780886144,
+        "mWidth": 333
+      },
+      "title": "Very Special",
+      "uri": "content://media/external/audio/media/1000011753"
+    },
+    {
+      "album": "Rolling Papers 2",
+      "artist": "Wiz Khalifa",
+      "duration": 217708,
+      "id": 1000011754,
+      "thumbnail": {
+        "mHeight": 333,
+        "mNativePtr": -5476376657780886080,
+        "mWidth": 333
+      },
+      "title": "420 Freestyle",
+      "uri": "content://media/external/audio/media/1000011754"
+    },
+    {
+      "album": "Rolling Papers 2",
+      "artist": "Wiz Khalifa",
+      "duration": 204620,
+      "id": 1000011755,
+      "thumbnail": {
+        "mHeight": 333,
+        "mNativePtr": -5476376657780886016,
+        "mWidth": 333
+      },
+      "title": "Bootsy Bellows",
+      "uri": "content://media/external/audio/media/1000011755"
+    },
+    {
+      "album": "Rolling Papers 2",
+      "artist": "Wiz Khalifa",
+      "duration": 262220,
+      "id": 1000011756,
+      "thumbnail": {
+        "mHeight": 333,
+        "mNativePtr": -5476376657780885952,
+        "mWidth": 333
+      },
+      "title": "Rolling Papers 2",
+      "uri": "content://media/external/audio/media/1000011756"
+    },
+    {
+      "album": "Rolling Papers 2",
+      "artist": "Wiz Khalifa",
+      "duration": 282779,
+      "id": 1000011757,
+      "thumbnail": {
+        "mHeight": 333,
+        "mNativePtr": -5476376657780885888,
+        "mWidth": 333
+      },
+      "title": "Late Night Messages",
+      "uri": "content://media/external/audio/media/1000011757"
+    },
+    {
+      "album": "Rolling Papers 2",
+      "artist": "Wiz Khalifa, Lil Skies",
+      "duration": 195634,
+      "id": 1000011758,
+      "thumbnail": {
+        "mHeight": 333,
+        "mNativePtr": -5476376657780886208,
+        "mWidth": 333
+      },
+      "title": "Fr Fr (feat. Lil Skies)",
+      "uri": "content://media/external/audio/media/1000011758"
+    },
+    {
+      "album": "Rolling Papers 2",
+      "artist": "Wiz Khalifa, PARTYNEXTDOOR",
+      "duration": 153159,
+      "id": 1000011759,
+      "thumbnail": {
+        "mHeight": 333,
+        "mNativePtr": -5476376657780885760,
+        "mWidth": 333
+      },
+      "title": "Rain (feat. PARTYNEXTDOOR)",
+      "uri": "content://media/external/audio/media/1000011759"
+    },
+    {
+      "album": "Rolling Papers 2",
+      "artist": "Wiz Khalifa, Snoop Dogg",
+      "duration": 200467,
+      "id": 1000011760,
+      "thumbnail": {
+        "mHeight": 333,
+        "mNativePtr": -5476376657780885824,
+        "mWidth": 333
+      },
+      "title": "Penthouse (feat. Snoop Dogg)",
+      "uri": "content://media/external/audio/media/1000011760"
+    },
+    {
+      "album": "Rolling Papers 2",
+      "artist": "Wiz Khalifa, Gucci Mane",
+      "duration": 124555,
+      "id": 1000011761,
+      "thumbnail": {
+        "mHeight": 333,
+        "mNativePtr": -5476376657780885632,
+        "mWidth": 333
+      },
+      "title": "Real Rich (feat. Gucci Mane)",
+      "uri": "content://media/external/audio/media/1000011761"
+    },
+    {
+      "album": "Rolling Papers 2",
+      "artist": "Wiz Khalifa, Problem",
+      "duration": 153786,
+      "id": 1000011762,
+      "thumbnail": {
+        "mHeight": 333,
+        "mNativePtr": -5476376657780885568,
+        "mWidth": 333
+      },
+      "title": "Gin and Drugs (feat. Problem)",
+      "uri": "content://media/external/audio/media/1000011762"
+    },
+    {
+      "album": "Rolling Papers 2",
+      "artist": "Wiz Khalifa, THEMXXNLIGHT",
+      "duration": 184689,
+      "id": 1000011763,
+      "thumbnail": {
+        "mHeight": 333,
+        "mNativePtr": -5476376657780885696,
+        "mWidth": 333
+      },
+      "title": "Homework (feat. THEMXXNLIGHT)",
+      "uri": "content://media/external/audio/media/1000011763"
+    },
+    {
+      "album": "Rolling Papers 2",
+      "artist": "Wiz Khalifa, Swae Lee",
+      "duration": 226772,
+      "id": 1000011764,
+      "thumbnail": {
+        "mHeight": 333,
+        "mNativePtr": -5476376657780885504,
+        "mWidth": 333
+      },
+      "title": "Hopeless Romantic (feat. Swae Lee)",
+      "uri": "content://media/external/audio/media/1000011764"
+    },
+    {
+      "album": "Rolling Papers 2",
+      "artist": "Wiz Khalifa, Ty Dolla $ign",
+      "duration": 200806,
+      "id": 1000011765,
+      "thumbnail": {
+        "mHeight": 333,
+        "mNativePtr": -5476376657780885376,
+        "mWidth": 333
+      },
+      "title": "Something New (feat. Ty Dolla $ign)",
+      "uri": "content://media/external/audio/media/1000011765"
+    },
+    {
+      "album": "Rolling Papers 2",
+      "artist": "Wiz Khalifa, THEMXXNLIGHT",
+      "duration": 218282,
+      "id": 1000011766,
+      "thumbnail": {
+        "mHeight": 333,
+        "mNativePtr": -5476376657780885440,
+        "mWidth": 333
+      },
+      "title": "All of a Sudden (feat. THEMXXNLIGHT)",
+      "uri": "content://media/external/audio/media/1000011766"
+    },
+    {
+      "album": "Rolling Papers 2",
+      "artist": "Wiz Khalifa, Jimmy Wopo, Hardo",
+      "duration": 246782,
+      "id": 1000011767,
+      "thumbnail": {
+        "mHeight": 333,
+        "mNativePtr": -5476376657780885248,
+        "mWidth": 333
+      },
+      "title": "Blue Hunnids (feat. Jimmy Wopo and Hardo)",
+      "uri": "content://media/external/audio/media/1000011767"
+    },
+    {
+      "album": "Rolling Papers 2",
+      "artist": "Wiz Khalifa, Bone Thugs-N-Harmony",
+      "duration": 259504,
+      "id": 1000011768,
+      "thumbnail": {
+        "mHeight": 333,
+        "mNativePtr": -5476376657780885184,
+        "mWidth": 333
+      },
+      "title": "Reach for the Stars (feat. Bone Thugs-N-Harmony)",
+      "uri": "content://media/external/audio/media/1000011768"
+    },
+    {
+      "album": "Rolling Papers 2",
+      "artist": "Wiz Khalifa, THEMXXNLIGHT, Curren$y",
+      "duration": 399755,
+      "id": 1000011769,
+      "thumbnail": {
+        "mHeight": 333,
+        "mNativePtr": -5476376657780885312,
+        "mWidth": 333
+      },
+      "title": "Mr. Williams (feat. THEMXXNLIGHT \u0026 Curren$y) / Where is the Love",
+      "uri": "content://media/external/audio/media/1000011769"
+    },
+    {
+      "album": "Rolling Papers 2",
+      "artist": "Wiz Khalifa, Chevy Woods, Darrius Willrich",
+      "duration": 330583,
+      "id": 1000011770,
+      "thumbnail": {
+        "mHeight": 333,
+        "mNativePtr": -5476376657780885120,
+        "mWidth": 333
+      },
+      "title": "Karate (feat. Chevy Woods) / Never Hesitate (feat. Darrius Willrich)",
+      "uri": "content://media/external/audio/media/1000011770"
+    },
+    {
+      "album": "Bulletproof",
+      "artist": "Young Dolph",
+      "duration": 83905,
+      "id": 1000011773,
+      "thumbnail": {
+        "mHeight": 320,
+        "mNativePtr": -5476376657780885056,
+        "mWidth": 320
+      },
+      "title": "SMH",
+      "uri": "content://media/external/audio/media/1000011773"
+    },
+    {
+      "album": "Bulletproof",
+      "artist": "Young Dolph",
+      "duration": 264856,
+      "id": 1000011774,
+      "thumbnail": {
+        "mHeight": 320,
+        "mNativePtr": -5476376657780884928,
+        "mWidth": 320
+      },
+      "title": "100 Shots",
+      "uri": "content://media/external/audio/media/1000011774"
+    },
+    {
+      "album": "Bulletproof",
+      "artist": "Young Dolph",
+      "duration": 179174,
+      "id": 1000011775,
+      "thumbnail": {
+        "mHeight": 320,
+        "mNativePtr": -5476376657780884992,
+        "mWidth": 320
+      },
+      "title": "So Fuk\u0027em",
+      "uri": "content://media/external/audio/media/1000011775"
+    },
+    {
+      "album": "Bulletproof",
+      "artist": "Young Dolph",
+      "duration": 166896,
+      "id": 1000011776,
+      "thumbnail": {
+        "mHeight": 320,
+        "mNativePtr": -5476376657780884800,
+        "mWidth": 320
+      },
+      "title": "All Of Them",
+      "uri": "content://media/external/audio/media/1000011776"
+    },
+    {
+      "album": "Bulletproof",
+      "artist": "Young Dolph",
+      "duration": 212402,
+      "id": 1000011777,
+      "thumbnail": {
+        "mHeight": 320,
+        "mNativePtr": -5476376657780884864,
+        "mWidth": 320
+      },
+      "title": "I\u0027m So Real",
+      "uri": "content://media/external/audio/media/1000011777"
+    },
+    {
+      "album": "Bulletproof",
+      "artist": "Young Dolph",
+      "duration": 224131,
+      "id": 1000011778,
+      "thumbnail": {
+        "mHeight": 320,
+        "mNativePtr": -5476376657780884736,
+        "mWidth": 320
+      },
+      "title": "In Charlotte",
+      "uri": "content://media/external/audio/media/1000011778"
+    },
+    {
+      "album": "Bulletproof",
+      "artist": "Young Dolph",
+      "duration": 201378,
+      "id": 1000011779,
+      "thumbnail": {
+        "mHeight": 320,
+        "mNativePtr": -5476376657780884608,
+        "mWidth": 320
+      },
+      "title": "But I\u0027m Bulletproof",
+      "uri": "content://media/external/audio/media/1000011779"
+    },
+    {
+      "album": "Bulletproof",
+      "artist": "Young Dolph",
+      "duration": 180323,
+      "id": 1000011780,
+      "thumbnail": {
+        "mHeight": 320,
+        "mNativePtr": -5476376657780884544,
+        "mWidth": 320
+      },
+      "title": "I Pray For My Enemies",
+      "uri": "content://media/external/audio/media/1000011780"
+    },
+    {
+      "album": "Bulletproof",
+      "artist": "Young Dolph",
+      "duration": 215928,
+      "id": 1000011781,
+      "thumbnail": {
+        "mHeight": 320,
+        "mNativePtr": -5476376657780884480,
+        "mWidth": 320
+      },
+      "title": "I\u0027m Everything You Wanna Be",
+      "uri": "content://media/external/audio/media/1000011781"
+    },
+    {
+      "album": "Bulletproof",
+      "artist": "Young Dolph",
+      "duration": 155089,
+      "id": 1000011782,
+      "thumbnail": {
+        "mHeight": 320,
+        "mNativePtr": -5476376657780884672,
+        "mWidth": 320
+      },
+      "title": "That\u0027s How I Feel (feat. Gucci Mane)",
+      "uri": "content://media/external/audio/media/1000011782"
+    },
+    {
+      "album": "Slime Language",
+      "artist": "Young Thug",
+      "duration": 187980,
+      "id": 1000011786,
+      "thumbnail": {
+        "mHeight": 333,
+        "mNativePtr": -5476376657780884352,
+        "mWidth": 333
+      },
+      "title": "Tsunami",
+      "uri": "content://media/external/audio/media/1000011786"
+    },
+    {
+      "album": "Slime Language",
+      "artist": "Young Thug",
+      "duration": 125522,
+      "id": 1000011787,
+      "thumbnail": {
+        "mHeight": 333,
+        "mNativePtr": -5476376657780884416,
+        "mWidth": 333
+      },
+      "title": "Gain Clout",
+      "uri": "content://media/external/audio/media/1000011787"
+    },
+    {
+      "album": "Slime Language",
+      "artist": "Young Thug",
+      "duration": 219458,
+      "id": 1000011788,
+      "thumbnail": {
+        "mHeight": 333,
+        "mNativePtr": -5476376657780884224,
+        "mWidth": 333
+      },
+      "title": "STS (feat. Strick)",
+      "uri": "content://media/external/audio/media/1000011788"
+    },
+    {
+      "album": "Slime Language",
+      "artist": "Young Thug",
+      "duration": 207363,
+      "id": 1000011789,
+      "thumbnail": {
+        "mHeight": 333,
+        "mNativePtr": -5476376657780884288,
+        "mWidth": 333
+      },
+      "title": "Audemar (feat. Tracy T)",
+      "uri": "content://media/external/audio/media/1000011789"
+    },
+    {
+      "album": "Slime Language",
+      "artist": "Young Thug",
+      "duration": 213476,
+      "id": 1000011790,
+      "thumbnail": {
+        "mHeight": 333,
+        "mNativePtr": -5476376657780884096,
+        "mWidth": 333
+      },
+      "title": "Oh Yeah (feat. HiDoraah)",
+      "uri": "content://media/external/audio/media/1000011790"
+    },
+    {
+      "album": "Slime Language",
+      "artist": "Young Thug",
+      "duration": 214913,
+      "id": 1000011791,
+      "thumbnail": {
+        "mHeight": 333,
+        "mNativePtr": -5476376657780884032,
+        "mWidth": 333
+      },
+      "title": "Goin Up (feat. Lil Keed)",
+      "uri": "content://media/external/audio/media/1000011791"
+    },
+    {
+      "album": "Slime Language",
+      "artist": "Young Thug",
+      "duration": 248715,
+      "id": 1000011792,
+      "thumbnail": {
+        "mHeight": 333,
+        "mNativePtr": -5476376657780883968,
+        "mWidth": 333
+      },
+      "title": "Slimed In (feat. Nechie)",
+      "uri": "content://media/external/audio/media/1000011792"
+    },
+    {
+      "album": "Slime Language",
+      "artist": "Young Thug",
+      "duration": 198429,
+      "id": 1000011793,
+      "thumbnail": {
+        "mHeight": 333,
+        "mNativePtr": -5476376657780883904,
+        "mWidth": 333
+      },
+      "title": "Dirty Shoes (feat. Gunna)",
+      "uri": "content://media/external/audio/media/1000011793"
+    },
+    {
+      "album": "Slime Language",
+      "artist": "Young Thug",
+      "duration": 221025,
+      "id": 1000011794,
+      "thumbnail": {
+        "mHeight": 333,
+        "mNativePtr": -5476376657780883840,
+        "mWidth": 333
+      },
+      "title": "Scoliosis (feat. Gunna \u0026 Duke)",
+      "uri": "content://media/external/audio/media/1000011794"
+    },
+    {
+      "album": "Slime Language",
+      "artist": "Young Thug",
+      "duration": 181502,
+      "id": 1000011795,
+      "thumbnail": {
+        "mHeight": 333,
+        "mNativePtr": -5476376657780883776,
+        "mWidth": 333
+      },
+      "title": "Chains Choking Me (feat. Gunna)",
+      "uri": "content://media/external/audio/media/1000011795"
+    },
+    {
+      "album": "Slime Language",
+      "artist": "Young Thug",
+      "duration": 142893,
+      "id": 1000011796,
+      "thumbnail": {
+        "mHeight": 333,
+        "mNativePtr": -5476376657780883712,
+        "mWidth": 333
+      },
+      "title": "It\u0027s A Slime (feat. Lil Uzi Vert)",
+      "uri": "content://media/external/audio/media/1000011796"
+    },
+    {
+      "album": "Slime Language",
+      "artist": "Young Thug",
+      "duration": 176878,
+      "id": 1000011797,
+      "thumbnail": {
+        "mHeight": 333,
+        "mNativePtr": -5476376657780883648,
+        "mWidth": 333
+      },
+      "title": "Expensive (feat. HiDoraah \u0026 Dolly)",
+      "uri": "content://media/external/audio/media/1000011797"
+    },
+    {
+      "album": "Slime Language",
+      "artist": "Young Thug",
+      "duration": 254122,
+      "id": 1000011798,
+      "thumbnail": {
+        "mHeight": 333,
+        "mNativePtr": -5476376657780883584,
+        "mWidth": 333
+      },
+      "title": "U Ain\u0027t Slime Enough (feat. Karlae \u0026 Duke)",
+      "uri": "content://media/external/audio/media/1000011798"
+    },
+    {
+      "album": "Slime Language",
+      "artist": "Young Thug",
+      "duration": 201747,
+      "id": 1000011799,
+      "thumbnail": {
+        "mHeight": 333,
+        "mNativePtr": -5476376657780883520,
+        "mWidth": 333
+      },
+      "title": "Chanel (Go Get It) [feat. Gunna \u0026 Lil Baby]",
+      "uri": "content://media/external/audio/media/1000011799"
+    },
+    {
+      "album": "Slime Language",
+      "artist": "Young Thug",
+      "duration": 258642,
+      "id": 1000011800,
+      "thumbnail": {
+        "mHeight": 333,
+        "mNativePtr": -5476376657780120896,
+        "mWidth": 333
+      },
+      "title": "January 1st (feat. Jacquees \u0026 Trap Boy Freddy)",
+      "uri": "content://media/external/audio/media/1000011800"
+    },
+    {
+      "album": "Scorpion",
+      "artist": "Drake",
+      "duration": 195765,
+      "id": 1000011814,
+      "thumbnail": {
+        "mHeight": 315,
+        "mNativePtr": -5476376657780118848,
+        "mWidth": 315
+      },
+      "title": "8 Out Of 10",
+      "uri": "content://media/external/audio/media/1000011814"
+    },
+    {
+      "album": "Scorpion",
+      "artist": "Drake",
+      "duration": 205195,
+      "id": 1000011815,
+      "thumbnail": {
+        "mHeight": 315,
+        "mNativePtr": -5476376657780118016,
+        "mWidth": 315
+      },
+      "title": "Mob Ties",
+      "uri": "content://media/external/audio/media/1000011815"
+    },
+    {
+      "album": "Scorpion",
+      "artist": "Drake",
+      "duration": 182129,
+      "id": 1000011816,
+      "thumbnail": {
+        "mHeight": 315,
+        "mNativePtr": -5476376657780117760,
+        "mWidth": 315
+      },
+      "title": "Finesse",
+      "uri": "content://media/external/audio/media/1000011816"
+    },
+    {
+      "album": "Scorpion",
+      "artist": "Drake",
+      "duration": 220006,
+      "id": 1000011817,
+      "thumbnail": {
+        "mHeight": 315,
+        "mNativePtr": -5476376657780074880,
+        "mWidth": 315
+      },
+      "title": "Final Fantasy",
+      "uri": "content://media/external/audio/media/1000011817"
+    },
+    {
+      "album": "Scorpion",
+      "artist": "Drake",
+      "duration": 136232,
+      "id": 1000011818,
+      "thumbnail": {
+        "mHeight": 315,
+        "mNativePtr": -5476376657780074752,
+        "mWidth": 315
+      },
+      "title": "Survival",
+      "uri": "content://media/external/audio/media/1000011818"
+    },
+    {
+      "album": "Scorpion",
+      "artist": "Drake",
+      "duration": 199004,
+      "id": 1000011819,
+      "thumbnail": {
+        "mHeight": 315,
+        "mNativePtr": -5476376657780074688,
+        "mWidth": 315
+      },
+      "title": "God\u0027s Plan",
+      "uri": "content://media/external/audio/media/1000011819"
+    },
+    {
+      "album": "Scorpion",
+      "artist": "Drake",
+      "duration": 157652,
+      "id": 1000011820,
+      "thumbnail": {
+        "mHeight": 315,
+        "mNativePtr": -5476376657780074624,
+        "mWidth": 315
+      },
+      "title": "That\u0027s How You Feel",
+      "uri": "content://media/external/audio/media/1000011820"
+    },
+    {
+      "album": "Scorpion",
+      "artist": "Drake",
+      "duration": 195843,
+      "id": 1000011821,
+      "thumbnail": {
+        "mHeight": 315,
+        "mNativePtr": -5476376657780074560,
+        "mWidth": 315
+      },
+      "title": "Talk Up (feat. JAY-Z)",
+      "uri": "content://media/external/audio/media/1000011821"
+    },
+    {
+      "album": "Scorpion",
+      "artist": "Drake",
+      "duration": 206057,
+      "id": 1000011822,
+      "thumbnail": {
+        "mHeight": 315,
+        "mNativePtr": -5476376657780074496,
+        "mWidth": 315
+      },
+      "title": "Peak",
+      "uri": "content://media/external/audio/media/1000011822"
+    },
+    {
+      "album": "Scorpion",
+      "artist": "Drake",
+      "duration": 245842,
+      "id": 1000011823,
+      "thumbnail": {
+        "mHeight": 315,
+        "mNativePtr": -5476376657780073728,
+        "mWidth": 315
+      },
+      "title": "Don\u0027t Matter To Me (feat. Michael Jackson)",
+      "uri": "content://media/external/audio/media/1000011823"
+    },
+    {
+      "album": "Scorpion",
+      "artist": "Drake",
+      "duration": 262508,
+      "id": 1000011824,
+      "thumbnail": {
+        "mHeight": 315,
+        "mNativePtr": -5476376657780073664,
+        "mWidth": 315
+      },
+      "title": "Jaded",
+      "uri": "content://media/external/audio/media/1000011824"
+    },
+    {
+      "album": "Scorpion",
+      "artist": "Drake",
+      "duration": 309606,
+      "id": 1000011825,
+      "thumbnail": {
+        "mHeight": 315,
+        "mNativePtr": -5476376657780884160,
+        "mWidth": 315
+      },
+      "title": "March 14",
+      "uri": "content://media/external/audio/media/1000011825"
+    },
+    {
+      "album": "Scorpion",
+      "artist": "Drake",
+      "duration": 216375,
+      "id": 1000011826,
+      "thumbnail": {
+        "mHeight": 315,
+        "mNativePtr": -5476376657780073536,
+        "mWidth": 315
+      },
+      "title": "Sandra\u0027s Rose",
+      "uri": "content://media/external/audio/media/1000011826"
+    },
+    {
+      "album": "Scorpion",
+      "artist": "Drake",
+      "duration": 247931,
+      "id": 1000011827,
+      "thumbnail": {
+        "mHeight": 315,
+        "mNativePtr": -5476376657780073472,
+        "mWidth": 315
+      },
+      "title": "Summer Games",
+      "uri": "content://media/external/audio/media/1000011827"
+    },
+    {
+      "album": "Scorpion",
+      "artist": "Drake",
+      "duration": 164026,
+      "id": 1000011828,
+      "thumbnail": {
+        "mHeight": 315,
+        "mNativePtr": -5476376657780073408,
+        "mWidth": 315
+      },
+      "title": "Can\u0027t Take a Joke",
+      "uri": "content://media/external/audio/media/1000011828"
+    },
+    {
+      "album": "Scorpion",
+      "artist": "Drake",
+      "duration": 210785,
+      "id": 1000011829,
+      "thumbnail": {
+        "mHeight": 315,
+        "mNativePtr": -5476376657780073344,
+        "mWidth": 315
+      },
+      "title": "Nice For What",
+      "uri": "content://media/external/audio/media/1000011829"
+    },
+    {
+      "album": "Scorpion",
+      "artist": "Drake",
+      "duration": 207337,
+      "id": 1000011830,
+      "thumbnail": {
+        "mHeight": 315,
+        "mNativePtr": -5476376657780073280,
+        "mWidth": 315
+      },
+      "title": "Ratchet Happy Birthday",
+      "uri": "content://media/external/audio/media/1000011830"
+    },
+    {
+      "album": "Scorpion",
+      "artist": "Drake",
+      "duration": 238658,
+      "id": 1000011831,
+      "thumbnail": {
+        "mHeight": 315,
+        "mNativePtr": -5476376657780073216,
+        "mWidth": 315
+      },
+      "title": "Nonstop",
+      "uri": "content://media/external/audio/media/1000011831"
+    },
+    {
+      "album": "Scorpion",
+      "artist": "Drake",
+      "duration": 217969,
+      "id": 1000011832,
+      "thumbnail": {
+        "mHeight": 315,
+        "mNativePtr": -5476376657780073152,
+        "mWidth": 315
+      },
+      "title": "In My Feelings",
+      "uri": "content://media/external/audio/media/1000011832"
+    },
+    {
+      "album": "Scorpion",
+      "artist": "Drake",
+      "duration": 185002,
+      "id": 1000011833,
+      "thumbnail": {
+        "mHeight": 315,
+        "mNativePtr": -5476376657780073088,
+        "mWidth": 315
+      },
+      "title": "Elevate",
+      "uri": "content://media/external/audio/media/1000011833"
+    },
+    {
+      "album": "Scorpion",
+      "artist": "Drake",
+      "duration": 289597,
+      "id": 1000011834,
+      "thumbnail": {
+        "mHeight": 315,
+        "mNativePtr": -5476376657780073024,
+        "mWidth": 315
+      },
+      "title": "After Dark (feat. Static Major \u0026 Ty Dolla $ign)",
+      "uri": "content://media/external/audio/media/1000011834"
+    },
+    {
+      "album": "Scorpion",
+      "artist": "Drake",
+      "duration": 214521,
+      "id": 1000011835,
+      "thumbnail": {
+        "mHeight": 315,
+        "mNativePtr": -5476376657780072960,
+        "mWidth": 315
+      },
+      "title": "I\u0027m Upset",
+      "uri": "content://media/external/audio/media/1000011835"
+    },
+    {
+      "album": "Scorpion",
+      "artist": "Drake",
+      "duration": 302214,
+      "id": 1000011836,
+      "thumbnail": {
+        "mHeight": 315,
+        "mNativePtr": -5476376657780073600,
+        "mWidth": 315
+      },
+      "title": "Emotionless",
+      "uri": "content://media/external/audio/media/1000011836"
+    },
+    {
+      "album": "Scorpion",
+      "artist": "Drake",
+      "duration": 162851,
+      "id": 1000011837,
+      "thumbnail": {
+        "mHeight": 315,
+        "mNativePtr": -5476376657780072832,
+        "mWidth": 315
+      },
+      "title": "Blue Tint",
+      "uri": "content://media/external/audio/media/1000011837"
+    },
+    {
+      "album": "Scorpion",
+      "artist": "Drake",
+      "duration": 226955,
+      "id": 1000011838,
+      "thumbnail": {
+        "mHeight": 315,
+        "mNativePtr": -5476376657780072768,
+        "mWidth": 315
+      },
+      "title": "Is There More",
+      "uri": "content://media/external/audio/media/1000011838"
+    },
+    {
+      "album": "Unknown Death 2002",
+      "artist": "Yung Lean",
+      "duration": 206289,
+      "id": 1000011839,
+      "thumbnail": {
+        "mHeight": 350,
+        "mNativePtr": -5476376657780072704,
+        "mWidth": 350
+      },
+      "title": "Oceans 2001 [Prod. Gregar]",
+      "uri": "content://media/external/audio/media/1000011839"
+    },
+    {
+      "album": "Unknown Death 2002",
+      "artist": "Yung Lean",
+      "duration": 215536,
+      "id": 1000011840,
+      "thumbnail": {
+        "mHeight": 350,
+        "mNativePtr": -5476376657780072640,
+        "mWidth": 350
+      },
+      "title": "Princess Daisy [Prod. Yung Gud]",
+      "uri": "content://media/external/audio/media/1000011840"
+    },
+    {
+      "album": "Unknown Death 2002",
+      "artist": "Yung Lean",
+      "duration": 200255,
+      "id": 1000011841,
+      "thumbnail": {
+        "mHeight": 350,
+        "mNativePtr": -5476376657780072576,
+        "mWidth": 350
+      },
+      "title": "Solarflare [Prod. Friendzone]",
+      "uri": "content://media/external/audio/media/1000011841"
+    },
+    {
+      "album": "Unknown Death 2002",
+      "artist": "Yung Lean",
+      "duration": 196415,
+      "id": 1000011842,
+      "thumbnail": {
+        "mHeight": 350,
+        "mNativePtr": -5476376657780072512,
+        "mWidth": 350
+      },
+      "title": "Lemonade (feat. Baba Stiltz) [Prod. Yung Sherman]",
+      "uri": "content://media/external/audio/media/1000011842"
+    },
+    {
+      "album": "Unknown Death 2002",
+      "artist": "Yung Lean",
+      "duration": 168829,
+      "id": 1000011843,
+      "thumbnail": {
+        "mHeight": 350,
+        "mNativePtr": -5476376657779736768,
+        "mWidth": 350
+      },
+      "title": "Deathstar // Getting Benjamins [Prod. White Armor]",
+      "uri": "content://media/external/audio/media/1000011843"
+    },
+    {
+      "album": "Unknown Death 2002",
+      "artist": "Yung Lean",
+      "duration": 112431,
+      "id": 1000011844,
+      "thumbnail": {
+        "mHeight": 350,
+        "mNativePtr": -5476376657779564544,
+        "mWidth": 350
+      },
+      "title": "Welcome 2 Unknown Death [Prod. Yung Sherman]",
+      "uri": "content://media/external/audio/media/1000011844"
+    },
+    {
+      "album": "Unknown Death 2002",
+      "artist": "Yung Lean",
+      "duration": 247040,
+      "id": 1000011845,
+      "thumbnail": {
+        "mHeight": 350,
+        "mNativePtr": -5476376657779564352,
+        "mWidth": 350
+      },
+      "title": "Hurt [Prod. Suicideyear]",
+      "uri": "content://media/external/audio/media/1000011845"
+    },
+    {
+      "album": "Unknown Death 2002",
+      "artist": "Yung Lean",
+      "duration": 224313,
+      "id": 1000011846,
+      "thumbnail": {
+        "mHeight": 350,
+        "mNativePtr": -5476376657779564224,
+        "mWidth": 350
+      },
+      "title": "Nitevision (feat. Bladee) [Prod. Yung Gud]",
+      "uri": "content://media/external/audio/media/1000011846"
+    },
+    {
+      "album": "Unknown Death 2002",
+      "artist": "Yung Lean",
+      "duration": 274051,
+      "id": 1000011847,
+      "thumbnail": {
+        "mHeight": 350,
+        "mNativePtr": -5476376657779545216,
+        "mWidth": 350
+      },
+      "title": "Lightsaber // Saviour [Prod. Yung Sherman]",
+      "uri": "content://media/external/audio/media/1000011847"
+    },
+    {
+      "album": "Unknown Death 2002",
+      "artist": "Yung Lean",
+      "duration": 180532,
+      "id": 1000011848,
+      "thumbnail": {
+        "mHeight": 350,
+        "mNativePtr": -5476376657780072896,
+        "mWidth": 350
+      },
+      "title": "Emails [Prod. White Armor]",
+      "uri": "content://media/external/audio/media/1000011848"
+    },
+    {
+      "album": "Unknown Death 2002",
+      "artist": "Yung Lean",
+      "duration": 199027,
+      "id": 1000011849,
+      "thumbnail": {
+        "mHeight": 350,
+        "mNativePtr": -5476376657777063488,
+        "mWidth": 350
+      },
+      "title": "Gatorade [Prod. Yung Gud]",
+      "uri": "content://media/external/audio/media/1000011849"
+    },
+    {
+      "album": "Unknown Death 2002",
+      "artist": "Yung Lean",
+      "duration": 184033,
+      "id": 1000011850,
+      "thumbnail": {
+        "mHeight": 350,
+        "mNativePtr": -5476376657996321600,
+        "mWidth": 350
+      },
+      "title": "Heal You // Bladerunner (feat. Bladee) [Prod. White Armor]",
+      "uri": "content://media/external/audio/media/1000011850"
+    },
+    {
+      "album": "WhatsApp Audio",
+      "artist": "\u003cunknown\u003e",
+      "duration": 4780,
+      "id": 1000012151,
+      "thumbnail": {
+        "mHeight": 330,
+        "mNativePtr": -5476376657983877760,
+        "mWidth": 330
+      },
+      "title": "AUD-20250919-WA0004",
+      "uri": "content://media/external/audio/media/1000012151"
+    },
+    {
+      "album": "WhatsApp Audio",
+      "artist": "\u003cunknown\u003e",
+      "duration": 59760,
+      "id": 1000012255,
+      "thumbnail": {
+        "mHeight": 330,
+        "mNativePtr": -5476376657983877760,
+        "mWidth": 330
+      },
+      "title": "AUD-20250920-WA0001",
+      "uri": "content://media/external/audio/media/1000012255"
+    },
+    {
+      "album": "WhatsApp Audio",
+      "artist": "\u003cunknown\u003e",
+      "duration": 36700,
+      "id": 1000013148,
+      "thumbnail": {
+        "mHeight": 330,
+        "mNativePtr": -5476376657983877760,
+        "mWidth": 330
+      },
+      "title": "AUD-20250925-WA0015",
+      "uri": "content://media/external/audio/media/1000013148"
+    },
+    {
+      "album": "WhatsApp Audio",
+      "artist": "\u003cunknown\u003e",
+      "duration": 9680,
+      "id": 1000013150,
+      "thumbnail": {
+        "mHeight": 330,
+        "mNativePtr": -5476376657983877760,
+        "mWidth": 330
+      },
+      "title": "AUD-20250925-WA0016",
+      "uri": "content://media/external/audio/media/1000013150"
+    },
+    {
+      "album": "WhatsApp Audio",
+      "artist": "\u003cunknown\u003e",
+      "duration": 48160,
+      "id": 1000013988,
+      "thumbnail": {
+        "mHeight": 330,
+        "mNativePtr": -5476376657983877760,
+        "mWidth": 330
+      },
+      "title": "AUD-20250929-WA0023",
+      "uri": "content://media/external/audio/media/1000013988"
+    },
+    {
+      "album": "Scorpion",
+      "artist": "Drake",
+      "duration": 207337,
+      "id": 1000014293,
+      "thumbnail": {
+        "mHeight": 315,
+        "mNativePtr": -5476376657996321472,
+        "mWidth": 315
+      },
+      "title": "Ratchet Happy Birthday",
+      "uri": "content://media/external/audio/media/1000014293"
+    },
+    {
+      "album": "Scorpion",
+      "artist": "Drake",
+      "duration": 309606,
+      "id": 1000014294,
+      "thumbnail": {
+        "mHeight": 315,
+        "mNativePtr": -5476376657996271168,
+        "mWidth": 315
+      },
+      "title": "March 14",
+      "uri": "content://media/external/audio/media/1000014294"
+    },
+    {
+      "album": "Scorpion",
+      "artist": "Drake",
+      "duration": 262508,
+      "id": 1000014295,
+      "thumbnail": {
+        "mHeight": 315,
+        "mNativePtr": -5476376657996270976,
+        "mWidth": 315
+      },
+      "title": "Jaded",
+      "uri": "content://media/external/audio/media/1000014295"
+    },
+    {
+      "album": "Scorpion",
+      "artist": "Drake",
+      "duration": 185002,
+      "id": 1000014296,
+      "thumbnail": {
+        "mHeight": 315,
+        "mNativePtr": -5476376657996270912,
+        "mWidth": 315
+      },
+      "title": "Elevate",
+      "uri": "content://media/external/audio/media/1000014296"
+    },
+    {
+      "album": "Scorpion",
+      "artist": "Drake",
+      "duration": 289597,
+      "id": 1000014297,
+      "thumbnail": {
+        "mHeight": 315,
+        "mNativePtr": -5476376657996270848,
+        "mWidth": 315
+      },
+      "title": "After Dark (feat. Static Major \u0026 Ty Dolla $ign)",
+      "uri": "content://media/external/audio/media/1000014297"
+    },
+    {
+      "album": "Scorpion",
+      "artist": "Drake",
+      "duration": 238658,
+      "id": 1000014298,
+      "thumbnail": {
+        "mHeight": 315,
+        "mNativePtr": -5476376657996270784,
+        "mWidth": 315
+      },
+      "title": "Nonstop",
+      "uri": "content://media/external/audio/media/1000014298"
+    },
+    {
+      "album": "Scorpion",
+      "artist": "Drake",
+      "duration": 199004,
+      "id": 1000014299,
+      "thumbnail": {
+        "mHeight": 315,
+        "mNativePtr": -5476376657996270720,
+        "mWidth": 315
+      },
+      "title": "God\u0027s Plan",
+      "uri": "content://media/external/audio/media/1000014299"
+    },
+    {
+      "album": "Scorpion",
+      "artist": "Drake",
+      "duration": 136232,
+      "id": 1000014300,
+      "thumbnail": {
+        "mHeight": 315,
+        "mNativePtr": -5476376657996270592,
+        "mWidth": 315
+      },
+      "title": "Survival",
+      "uri": "content://media/external/audio/media/1000014300"
+    },
+    {
+      "album": "Scorpion",
+      "artist": "Drake",
+      "duration": 247931,
+      "id": 1000014301,
+      "thumbnail": {
+        "mHeight": 315,
+        "mNativePtr": -5476376657996270528,
+        "mWidth": 315
+      },
+      "title": "Summer Games",
+      "uri": "content://media/external/audio/media/1000014301"
+    },
+    {
+      "album": "Scorpion",
+      "artist": "Drake",
+      "duration": 182129,
+      "id": 1000014302,
+      "thumbnail": {
+        "mHeight": 315,
+        "mNativePtr": -5476376657996270464,
+        "mWidth": 315
+      },
+      "title": "Finesse",
+      "uri": "content://media/external/audio/media/1000014302"
+    },
+    {
+      "album": "Scorpion",
+      "artist": "Drake",
+      "duration": 226955,
+      "id": 1000014303,
+      "thumbnail": {
+        "mHeight": 315,
+        "mNativePtr": -5476376657996270400,
+        "mWidth": 315
+      },
+      "title": "Is There More",
+      "uri": "content://media/external/audio/media/1000014303"
+    },
+    {
+      "album": "Scorpion",
+      "artist": "Drake",
+      "duration": 245842,
+      "id": 1000014304,
+      "thumbnail": {
+        "mHeight": 315,
+        "mNativePtr": -5476376657996270336,
+        "mWidth": 315
+      },
+      "title": "Don\u0027t Matter To Me (feat. Michael Jackson)",
+      "uri": "content://media/external/audio/media/1000014304"
+    },
+    {
+      "album": "Scorpion",
+      "artist": "Drake",
+      "duration": 195843,
+      "id": 1000014305,
+      "thumbnail": {
+        "mHeight": 315,
+        "mNativePtr": -5476376657996270272,
+        "mWidth": 315
+      },
+      "title": "Talk Up (feat. JAY-Z)",
+      "uri": "content://media/external/audio/media/1000014305"
+    },
+    {
+      "album": "Scorpion",
+      "artist": "Drake",
+      "duration": 220006,
+      "id": 1000014306,
+      "thumbnail": {
+        "mHeight": 315,
+        "mNativePtr": -5476376657996270144,
+        "mWidth": 315
+      },
+      "title": "Final Fantasy",
+      "uri": "content://media/external/audio/media/1000014306"
+    },
+    {
+      "album": "Scorpion",
+      "artist": "Drake",
+      "duration": 162851,
+      "id": 1000014307,
+      "thumbnail": {
+        "mHeight": 315,
+        "mNativePtr": -5476376657996270016,
+        "mWidth": 315
+      },
+      "title": "Blue Tint",
+      "uri": "content://media/external/audio/media/1000014307"
+    },
+    {
+      "album": "Scorpion",
+      "artist": "Drake",
+      "duration": 216375,
+      "id": 1000014308,
+      "thumbnail": {
+        "mHeight": 315,
+        "mNativePtr": -5476376657996269952,
+        "mWidth": 315
+      },
+      "title": "Sandra\u0027s Rose",
+      "uri": "content://media/external/audio/media/1000014308"
+    },
+    {
+      "album": "Scorpion",
+      "artist": "Drake",
+      "duration": 164026,
+      "id": 1000014309,
+      "thumbnail": {
+        "mHeight": 315,
+        "mNativePtr": -5476376657996269888,
+        "mWidth": 315
+      },
+      "title": "Can\u0027t Take a Joke",
+      "uri": "content://media/external/audio/media/1000014309"
+    },
+    {
+      "album": "Scorpion",
+      "artist": "Drake",
+      "duration": 214521,
+      "id": 1000014310,
+      "thumbnail": {
+        "mHeight": 315,
+        "mNativePtr": -5476376657996269824,
+        "mWidth": 315
+      },
+      "title": "I\u0027m Upset",
+      "uri": "content://media/external/audio/media/1000014310"
+    },
+    {
+      "album": "Scorpion",
+      "artist": "Drake",
+      "duration": 157652,
+      "id": 1000014311,
+      "thumbnail": {
+        "mHeight": 315,
+        "mNativePtr": -5476376657996269760,
+        "mWidth": 315
+      },
+      "title": "That\u0027s How You Feel",
+      "uri": "content://media/external/audio/media/1000014311"
+    },
+    {
+      "album": "Scorpion",
+      "artist": "Drake",
+      "duration": 206057,
+      "id": 1000014312,
+      "thumbnail": {
+        "mHeight": 315,
+        "mNativePtr": -5476376657996269696,
+        "mWidth": 315
+      },
+      "title": "Peak",
+      "uri": "content://media/external/audio/media/1000014312"
+    },
+    {
+      "album": "Scorpion",
+      "artist": "Drake",
+      "duration": 205195,
+      "id": 1000014313,
+      "thumbnail": {
+        "mHeight": 315,
+        "mNativePtr": -5476376657996269632,
+        "mWidth": 315
+      },
+      "title": "Mob Ties",
+      "uri": "content://media/external/audio/media/1000014313"
+    },
+    {
+      "album": "Scorpion",
+      "artist": "Drake",
+      "duration": 195765,
+      "id": 1000014314,
+      "thumbnail": {
+        "mHeight": 315,
+        "mNativePtr": -5476376657996269568,
+        "mWidth": 315
+      },
+      "title": "8 Out Of 10",
+      "uri": "content://media/external/audio/media/1000014314"
+    },
+    {
+      "album": "Scorpion",
+      "artist": "Drake",
+      "duration": 217969,
+      "id": 1000014315,
+      "thumbnail": {
+        "mHeight": 315,
+        "mNativePtr": -5476376657996269504,
+        "mWidth": 315
+      },
+      "title": "In My Feelings",
+      "uri": "content://media/external/audio/media/1000014315"
+    },
+    {
+      "album": "Scorpion",
+      "artist": "Drake",
+      "duration": 210785,
+      "id": 1000014316,
+      "thumbnail": {
+        "mHeight": 315,
+        "mNativePtr": -5476376657996269440,
+        "mWidth": 315
+      },
+      "title": "Nice For What",
+      "uri": "content://media/external/audio/media/1000014316"
+    },
+    {
+      "album": "Scorpion",
+      "artist": "Drake",
+      "duration": 302214,
+      "id": 1000014317,
+      "thumbnail": {
+        "mHeight": 315,
+        "mNativePtr": -5476376657996269376,
+        "mWidth": 315
+      },
+      "title": "Emotionless",
+      "uri": "content://media/external/audio/media/1000014317"
+    },
+    {
+      "album": "Unknown Death 2002",
+      "artist": "Yung Lean",
+      "duration": 168829,
+      "id": 1000014318,
+      "thumbnail": {
+        "mHeight": 350,
+        "mNativePtr": -5476376657996269312,
+        "mWidth": 350
+      },
+      "title": "Deathstar // Getting Benjamins [Prod. White Armor]",
+      "uri": "content://media/external/audio/media/1000014318"
+    },
+    {
+      "album": "Unknown Death 2002",
+      "artist": "Yung Lean",
+      "duration": 112431,
+      "id": 1000014319,
+      "thumbnail": {
+        "mHeight": 350,
+        "mNativePtr": -5476376657996269248,
+        "mWidth": 350
+      },
+      "title": "Welcome 2 Unknown Death [Prod. Yung Sherman]",
+      "uri": "content://media/external/audio/media/1000014319"
+    },
+    {
+      "album": "Unknown Death 2002",
+      "artist": "Yung Lean",
+      "duration": 199027,
+      "id": 1000014320,
+      "thumbnail": {
+        "mHeight": 350,
+        "mNativePtr": -5476376657996269184,
+        "mWidth": 350
+      },
+      "title": "Gatorade [Prod. Yung Gud]",
+      "uri": "content://media/external/audio/media/1000014320"
+    },
+    {
+      "album": "Unknown Death 2002",
+      "artist": "Yung Lean",
+      "duration": 184033,
+      "id": 1000014321,
+      "thumbnail": {
+        "mHeight": 350,
+        "mNativePtr": -5476376657996269120,
+        "mWidth": 350
+      },
+      "title": "Heal You // Bladerunner (feat. Bladee) [Prod. White Armor]",
+      "uri": "content://media/external/audio/media/1000014321"
+    },
+    {
+      "album": "Unknown Death 2002",
+      "artist": "Yung Lean",
+      "duration": 224313,
+      "id": 1000014322,
+      "thumbnail": {
+        "mHeight": 350,
+        "mNativePtr": -5476376657996269056,
+        "mWidth": 350
+      },
+      "title": "Nitevision (feat. Bladee) [Prod. Yung Gud]",
+      "uri": "content://media/external/audio/media/1000014322"
+    },
+    {
+      "album": "Unknown Death 2002",
+      "artist": "Yung Lean",
+      "duration": 200255,
+      "id": 1000014323,
+      "thumbnail": {
+        "mHeight": 350,
+        "mNativePtr": -5476376657996268992,
+        "mWidth": 350
+      },
+      "title": "Solarflare [Prod. Friendzone]",
+      "uri": "content://media/external/audio/media/1000014323"
+    },
+    {
+      "album": "Unknown Death 2002",
+      "artist": "Yung Lean",
+      "duration": 274051,
+      "id": 1000014324,
+      "thumbnail": {
+        "mHeight": 350,
+        "mNativePtr": -5476376657996268928,
+        "mWidth": 350
+      },
+      "title": "Lightsaber // Saviour [Prod. Yung Sherman]",
+      "uri": "content://media/external/audio/media/1000014324"
+    },
+    {
+      "album": "Unknown Death 2002",
+      "artist": "Yung Lean",
+      "duration": 196415,
+      "id": 1000014325,
+      "thumbnail": {
+        "mHeight": 350,
+        "mNativePtr": -5476376657996268864,
+        "mWidth": 350
+      },
+      "title": "Lemonade (feat. Baba Stiltz) [Prod. Yung Sherman]",
+      "uri": "content://media/external/audio/media/1000014325"
+    },
+    {
+      "album": "Unknown Death 2002",
+      "artist": "Yung Lean",
+      "duration": 247040,
+      "id": 1000014326,
+      "thumbnail": {
+        "mHeight": 350,
+        "mNativePtr": -5476376657996268800,
+        "mWidth": 350
+      },
+      "title": "Hurt [Prod. Suicideyear]",
+      "uri": "content://media/external/audio/media/1000014326"
+    },
+    {
+      "album": "Unknown Death 2002",
+      "artist": "Yung Lean",
+      "duration": 180532,
+      "id": 1000014327,
+      "thumbnail": {
+        "mHeight": 350,
+        "mNativePtr": -5476376657996268736,
+        "mWidth": 350
+      },
+      "title": "Emails [Prod. White Armor]",
+      "uri": "content://media/external/audio/media/1000014327"
+    },
+    {
+      "album": "Unknown Death 2002",
+      "artist": "Yung Lean",
+      "duration": 215536,
+      "id": 1000014328,
+      "thumbnail": {
+        "mHeight": 350,
+        "mNativePtr": -5476376657996268672,
+        "mWidth": 350
+      },
+      "title": "Princess Daisy [Prod. Yung Gud]",
+      "uri": "content://media/external/audio/media/1000014328"
+    },
+    {
+      "album": "Unknown Death 2002",
+      "artist": "Yung Lean",
+      "duration": 206289,
+      "id": 1000014329,
+      "thumbnail": {
+        "mHeight": 350,
+        "mNativePtr": -5476376657996268608,
+        "mWidth": 350
+      },
+      "title": "Oceans 2001 [Prod. Gregar]",
+      "uri": "content://media/external/audio/media/1000014329"
+    },
+    {
+      "album": "WhatsApp Audio",
+      "artist": "\u003cunknown\u003e",
+      "duration": 21980,
+      "id": 1000015973,
+      "thumbnail": {
+        "mHeight": 330,
+        "mNativePtr": -5476376657777164672,
+        "mWidth": 330
+      },
+      "title": "AUD-20251006-WA0008",
+      "uri": "content://media/external/audio/media/1000015973"
+    },
+    {
+      "album": "WhatsApp Audio",
+      "artist": "\u003cunknown\u003e",
+      "duration": 71920,
+      "id": 1000016667,
+      "thumbnail": {
+        "mHeight": 330,
+        "mNativePtr": -5476376657777164672,
+        "mWidth": 330
+      },
+      "title": "AUD-20251008-WA0001",
+      "uri": "content://media/external/audio/media/1000016667"
+    },
+    {
+      "album": "WhatsApp Audio",
+      "artist": "gguicido_viana",
+      "duration": 209520,
+      "id": 1000021632,
+      "thumbnail": {
+        "mHeight": 360,
+        "mNativePtr": -5476376657996268544,
+        "mWidth": 360
+      },
+      "title": "ficou_bom_7-10 (Cover)",
+      "uri": "content://media/external/audio/media/1000021632"
+    },
+    {
+      "album": "WhatsApp Audio",
+      "artist": "\u003cunknown\u003e",
+      "duration": 34534,
+      "id": 1000024489,
+      "thumbnail": {
+        "mHeight": 330,
+        "mNativePtr": -5476376657777164672,
+        "mWidth": 330
+      },
+      "title": "AUD-20251117-WA0017",
+      "uri": "content://media/external/audio/media/1000024489"
+    },
+    {
+      "album": "WhatsApp Audio",
+      "artist": "\u003cunknown\u003e",
+      "duration": 41880,
+      "id": 1000028189,
+      "thumbnail": {
+        "mHeight": 330,
+        "mNativePtr": -5476376657777164672,
+        "mWidth": 330
+      },
+      "title": "AUD-20251210-WA0006",
+      "uri": "content://media/external/audio/media/1000028189"
+    },
+    {
+      "album": "WhatsApp Audio",
+      "artist": "\u003cunknown\u003e",
+      "duration": 2220,
+      "id": 1000029562,
+      "thumbnail": {
+        "mHeight": 330,
+        "mNativePtr": -5476376657777164672,
+        "mWidth": 330
+      },
+      "title": "AUD-20251219-WA0013",
+      "uri": "content://media/external/audio/media/1000029562"
+    },
+    {
+      "album": "WhatsApp Audio",
+      "artist": "\u003cunknown\u003e",
+      "duration": 6980,
+      "id": 1000029776,
+      "thumbnail": {
+        "mHeight": 330,
+        "mNativePtr": -5476376657777164672,
+        "mWidth": 330
+      },
+      "title": "AUD-20251221-WA0017",
+      "uri": "content://media/external/audio/media/1000029776"
+    },
+    {
+      "album": "WhatsApp Audio",
+      "artist": "\u003cunknown\u003e",
+      "duration": 6680,
+      "id": 1000030543,
+      "thumbnail": {
+        "mHeight": 330,
+        "mNativePtr": -5476376657777164672,
+        "mWidth": 330
+      },
+      "title": "AUD-20251227-WA0004",
+      "uri": "content://media/external/audio/media/1000030543"
+    },
+    {
+      "album": "WhatsApp Audio",
+      "artist": "\u003cunknown\u003e",
+      "duration": 17000,
+      "id": 1000030545,
+      "thumbnail": {
+        "mHeight": 330,
+        "mNativePtr": -5476376657777164672,
+        "mWidth": 330
+      },
+      "title": "AUD-20251227-WA0006",
+      "uri": "content://media/external/audio/media/1000030545"
+    },
+    {
+      "album": "WhatsApp Audio",
+      "artist": "\u003cunknown\u003e",
+      "duration": 2200,
+      "id": 1000030546,
+      "thumbnail": {
+        "mHeight": 330,
+        "mNativePtr": -5476376657777164672,
+        "mWidth": 330
+      },
+      "title": "AUD-20251227-WA0005",
+      "uri": "content://media/external/audio/media/1000030546"
+    },
+    {
+      "album": "WhatsApp Audio",
+      "artist": "\u003cunknown\u003e",
+      "duration": 18600,
+      "id": 1000030881,
+      "thumbnail": {
+        "mHeight": 330,
+        "mNativePtr": -5476376657777164672,
+        "mWidth": 330
+      },
+      "title": "AUD-20251231-WA0005",
+      "uri": "content://media/external/audio/media/1000030881"
+    },
+    {
+      "album": "WhatsApp Audio",
+      "artist": "\u003cunknown\u003e",
+      "duration": 24360,
+      "id": 1000031072,
+      "thumbnail": {
+        "mHeight": 330,
+        "mNativePtr": -5476376657777164672,
+        "mWidth": 330
+      },
+      "title": "AUD-20260101-WA0018",
+      "uri": "content://media/external/audio/media/1000031072"
+    },
+    {
+      "album": "WhatsApp Audio",
+      "artist": "\u003cunknown\u003e",
+      "duration": 2820,
+      "id": 1000031074,
+      "thumbnail": {
+        "mHeight": 330,
+        "mNativePtr": -5476376657777164672,
+        "mWidth": 330
+      },
+      "title": "AUD-20260101-WA0019",
+      "uri": "content://media/external/audio/media/1000031074"
+    },
+    {
+      "album": "WhatsApp Audio",
+      "artist": "\u003cunknown\u003e",
+      "duration": 15260,
+      "id": 1000031127,
+      "thumbnail": {
+        "mHeight": 330,
+        "mNativePtr": -5476376657777164672,
+        "mWidth": 330
+      },
+      "title": "AUD-20260102-WA0003",
+      "uri": "content://media/external/audio/media/1000031127"
+    },
+    {
+      "album": "WhatsApp Audio",
+      "artist": "\u003cunknown\u003e",
+      "duration": 5360,
+      "id": 1000031883,
+      "thumbnail": {
+        "mHeight": 330,
+        "mNativePtr": -5476376657777164672,
+        "mWidth": 330
+      },
+      "title": "AUD-20260107-WA0037",
+      "uri": "content://media/external/audio/media/1000031883"
+    },
+    {
+      "album": "WhatsApp Audio",
+      "artist": "\u003cunknown\u003e",
+      "duration": 6640,
+      "id": 1000032524,
+      "thumbnail": {
+        "mHeight": 330,
+        "mNativePtr": -5476376657777164672,
+        "mWidth": 330
+      },
+      "title": "AUD-20260112-WA0007",
+      "uri": "content://media/external/audio/media/1000032524"
+    },
+    {
+      "album": "WhatsApp Audio",
+      "artist": "\u003cunknown\u003e",
+      "duration": 10700,
+      "id": 1000033029,
+      "thumbnail": {
+        "mHeight": 330,
+        "mNativePtr": -5476376657777164672,
+        "mWidth": 330
+      },
+      "title": "AUD-20260115-WA0005",
+      "uri": "content://media/external/audio/media/1000033029"
+    },
+    {
+      "album": "WhatsApp Audio",
+      "artist": "\u003cunknown\u003e",
+      "duration": 6680,
+      "id": 1000033593,
+      "thumbnail": {
+        "mHeight": 330,
+        "mNativePtr": -5476376657777164672,
+        "mWidth": 330
+      },
+      "title": "AUD-20260120-WA0010",
+      "uri": "content://media/external/audio/media/1000033593"
+    },
+    {
+      "album": "WhatsApp Audio",
+      "artist": "\u003cunknown\u003e",
+      "duration": 4980,
+      "id": 1000033595,
+      "thumbnail": {
+        "mHeight": 330,
+        "mNativePtr": -5476376657777164672,
+        "mWidth": 330
+      },
+      "title": "AUD-20260120-WA0011",
+      "uri": "content://media/external/audio/media/1000033595"
+    },
+    {
+      "album": "WhatsApp Audio",
+      "artist": "\u003cunknown\u003e",
+      "duration": 14580,
+      "id": 1000033671,
+      "thumbnail": {
+        "mHeight": 330,
+        "mNativePtr": -5476376657777164672,
+        "mWidth": 330
+      },
+      "title": "AUD-20260120-WA0014",
+      "uri": "content://media/external/audio/media/1000033671"
+    },
+    {
+      "album": "WhatsApp Audio",
+      "artist": "\u003cunknown\u003e",
+      "duration": 5720,
+      "id": 1000033673,
+      "thumbnail": {
+        "mHeight": 330,
+        "mNativePtr": -5476376657777164672,
+        "mWidth": 330
+      },
+      "title": "AUD-20260120-WA0015",
+      "uri": "content://media/external/audio/media/1000033673"
+    },
+    {
+      "album": "WhatsApp Audio",
+      "artist": "\u003cunknown\u003e",
+      "duration": 8720,
+      "id": 1000034227,
+      "thumbnail": {
+        "mHeight": 330,
+        "mNativePtr": -5476376657777164672,
+        "mWidth": 330
+      },
+      "title": "AUD-20260123-WA0020",
+      "uri": "content://media/external/audio/media/1000034227"
+    },
+    {
+      "album": "WhatsApp Audio",
+      "artist": "\u003cunknown\u003e",
+      "duration": 9200,
+      "id": 1000034265,
+      "thumbnail": {
+        "mHeight": 330,
+        "mNativePtr": -5476376657777164672,
+        "mWidth": 330
+      },
+      "title": "AUD-20260124-WA0000",
+      "uri": "content://media/external/audio/media/1000034265"
+    },
+    {
+      "album": "WhatsApp Audio",
+      "artist": "\u003cunknown\u003e",
+      "duration": 20540,
+      "id": 1000034621,
+      "thumbnail": {
+        "mHeight": 330,
+        "mNativePtr": -5476376657777164672,
+        "mWidth": 330
+      },
+      "title": "AUD-20260127-WA0000",
+      "uri": "content://media/external/audio/media/1000034621"
+    },
+    {
+      "album": "WhatsApp Audio",
+      "artist": "\u003cunknown\u003e",
+      "duration": 10820,
+      "id": 1000034834,
+      "thumbnail": {
+        "mHeight": 330,
+        "mNativePtr": -5476376657777164672,
+        "mWidth": 330
+      },
+      "title": "AUD-20260128-WA0002",
+      "uri": "content://media/external/audio/media/1000034834"
+    },
+    {
+      "album": "WhatsApp Audio",
+      "artist": "\u003cunknown\u003e",
+      "duration": 8120,
+      "id": 1000034844,
+      "thumbnail": {
+        "mHeight": 330,
+        "mNativePtr": -5476376657777164672,
+        "mWidth": 330
+      },
+      "title": "AUD-20260128-WA0003",
+      "uri": "content://media/external/audio/media/1000034844"
+    },
+    {
+      "album": "WhatsApp Audio",
+      "artist": "\u003cunknown\u003e",
+      "duration": 5360,
+      "id": 1000034927,
+      "thumbnail": {
+        "mHeight": 330,
+        "mNativePtr": -5476376657777164672,
+        "mWidth": 330
+      },
+      "title": "AUD-20260128-WA0016",
+      "uri": "content://media/external/audio/media/1000034927"
+    }
+  ]
+}

@@ -57,6 +57,12 @@ class AudioPlayer {
       this.playlist = data.data;
       this.renderPlaylist();
     } catch (error) {
+      // TODO: Remove mock data usage in production
+      console.warn("FAILED TO LOAD PLAYLIST FROM SERVER, USING MOCK DATA.");
+      const mockSimplePlaylist =
+        require("../data/mock-simple-playlist.json").data;
+      this.playlist = mockSimplePlaylist;
+      this.renderPlaylist();
       console.error("Error loading playlist:", error);
     }
   }
